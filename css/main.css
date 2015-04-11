@@ -87,7 +87,7 @@
 
 
 .recipe-author {
-  padding-top: 25px;
+  padding-top: 55px;
   padding-bottom: 50px;
   font-family: 'Halant', serif;
   border-top: 15px solid;
@@ -127,6 +127,9 @@ footer {
   text-decoration: none;
   padding: 5px;
   float: right;
+  font-style: sans serif;
+  width: 150px;
+  text-align: center;
 }
 
 .footer-logo {
